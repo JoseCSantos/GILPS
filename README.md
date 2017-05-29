@@ -17,6 +17,6 @@ is only how, in this engine, an hypothesis is generated from an example. The GIL
 does the rest.
 
 The ideas and algorithms specific to the ILP engines TopLog and ProGolem and the subsumption
-engine Subsumer were described in Chapters 3, 4 and 5 of my thesis, respectively. 
+engine Subsumer were described in Chapters 3, 4 and 5 of [my thesis](./PhD_Thesis_Jose_Santos.pdf), respectively. 
 
-For further details on GILPS, please see PhD_Thesis_Jose_Santos.pdf , in particular, Chapter 6 where GILPS is described.
+For further details on GILPS, please see [Chapter 6](./PhD_Thesis_Jose_Santos.pdf) where GILPS is described in more detail.
