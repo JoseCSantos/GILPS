@@ -25,7 +25,7 @@ For further details on GILPS, please see [Chapter 6](./PhD_Thesis_Jose_Santos.pd
 
 ## How to run
 
-You'll need [YAP Prolog](https://www.dcc.fc.up.pt/~vsc/Yap/downloads.html). Then, in the command line, execute the demo train and test files provided. E.g.
+You'll need [YAP Prolog](https://www.dcc.fc.up.pt/~vsc/yap/). Then, in the command line, execute the demo train and test files provided. E.g.
 
 For building models on datasets training data:
 yap -l demo_train_model.pl
